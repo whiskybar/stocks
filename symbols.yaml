@@ -1,0 +1,163 @@
+AAPL:
+  name: Apple Inc.
+  etx:
+    margin: 3261
+    spread: 0.23
+  plus500:
+    spread: 1.10
+    shares: 20
+    leverage: 20
+  stragegy:
+    id: low 3x opposite
+    profit: 82.5
+    transactions: 41
+ABT:
+  name: 
+ACN
+ADBE
+AET
+AFL
+AKAM
+ALL
+ALTR
+ALV.DE
+AMD
+ANF
+APD
+ARG
+ARO
+ATI
+ATVI
+BARC.L
+BAYN.DE
+BMW.DE
+BP
+BSAC
+CBR
+DAI.DE
+EGO:
+  name: Eldorado Gold
+  etx:
+    margin: 82
+    spread: 0.01
+  plus:
+    spread: 0.03
+    shares: 250
+    leverage: 20
+  strategy:
+    id: low 3x opposite
+    profit: 2.1
+    transactions: 31
+EOAN.DE:
+  name:
+  etx:
+    margin:
+    spread:
+  plus:
+    spread:
+    shares:
+    leverage:
+  strategy:
+    id: low 3x opposite
+    profit:
+    transactions:
+FB:
+  name: Facebook
+  etx:
+    margin:
+    spread:
+  plus:
+    spread: 0.09
+    shares: 100
+    leverage: 20
+  strategy:
+    id: low 3x opposite
+    profit: 5.8
+    transactions: 37
+EA:
+  name: Electronic Arts
+  etx:
+    spread: 0.20
+  plus:
+    spread: 0.06
+    shares: 100
+    leverage: 20
+  strategy:
+    id: low 3x opposite
+    profit: 3.4
+    transactions: 32
+DD:
+  name: DuPont
+  plus:
+    spread: 0.12
+    shares: 50
+    leverage: 20
+  strategy:
+    id: low 4x opposite
+    profit: 6.8
+    transactions: 34
+YELP:
+  name: Yelp
+  etx:
+    margin:
+    spread: 0.10
+  plus:
+    spread: 0.25
+    shares: 100
+    leverage: 20
+  strategy:
+    id: low 3x opposite
+    profit: 17.6
+    transactions: 27
+IAG:
+  name: IAMGOLD
+  etx:
+    spread: 1.0
+  plus:
+    spread: 0.03
+    shares: 250
+    leverage: 20
+  strategy:
+    id: high 3x
+    profit: 7.3
+    transactions: 35
+AUY:
+  name: Yamana Gold
+  etx:
+    margin:
+    spread: 0.01
+  plus:
+    spread: 0.04
+    shares: 100
+    leverage: 20
+  strategy:
+    id: low 3x opposite
+    profit: 3.8
+    transactions: 37
+F
+GAS
+GOOG
+HBC
+HEN.F
+HSBA.L
+IFX.DE
+KGC:
+  name: Kinross Gold
+  etx:
+    margin: 32
+    spread: 0.01
+  plus:
+    spread: 0.03
+    shares: 250
+    leverage: 20
+  stragegy:
+    id: low 3x opposite
+    profit: 1.2
+    transactions: 35
+KO
+LDK
+LNKD
+LOGI
+MO
+TSLA
+VOW.DE
